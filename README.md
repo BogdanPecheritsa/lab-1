@@ -1,4 +1,4 @@
-# Лабораторна робота №1: Принципи програмування
+﻿# Лабораторна робота №1: Принципи програмування
 
 ## Опис застосованих принципів
 
@@ -28,8 +28,8 @@
    - Прості перевірки і логіка, що дозволяють швидко виявляти помилки.
 
 ## Посилання на код
-- [Money.cs (рядки 1-30)](./Money.cs)
-- [Product.cs (рядки 1-35)](./Product.cs)
-- [Warehouse.cs (рядки 1-30)](./Warehouse.cs)
-- [Reporting.cs (рядки 1-20)](./Reporting.cs)
-- [Program.cs (рядки 1-40)](./Program.cs)
+- [Money.cs (рядки 1-30)](./lab-1console/Money.cs)
+- [Product.cs (рядки 1-35)](./lab-1console/Product.cs)
+- [Warehouse.cs (рядки 1-30)](./lab-1console/Warehouse.cs)
+- [Reporting.cs (рядки 1-20)](./lab-1console/Reporting.cs)
+- [Program.cs (рядки 1-40)](./lab-1console/Program.cs)
